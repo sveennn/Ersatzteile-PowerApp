@@ -1,5 +1,5 @@
 # Ersatzteile-PowerApp
-Eine von mir erstellte PowerApp um für Online Nachlieferungen Ersatzeile Organisiert einzulagern, finden und Kosten zu senken.
+Eine von mir erstellte PowerApp um für Online Nachlieferungen Ersatzeile organisiert einzulagern, zu finden und Kosten zu senken.
 
 > Jahr: 2024–2026
 
@@ -11,14 +11,14 @@ Eine von mir erstellte PowerApp um für Online Nachlieferungen Ersatzeile Organi
 
 ## Das Projekt
 
-Wenn wir defekte Ware Nachliefern müssen, läuft dies über unsere Filiale in Arbon.
-Wir hatten zwar ein bis zwei Paletten wo wir unteranderem einige Plastik Deckel aufbewahrt haben aber es war sehr unsortiert.
-Da die Nachlieferung auch unter meinen Zuständigkeitsbereich fallen, habe ich hier intervenieren müssen und angefangen eine "Lagersystem" zu erarbeiten.
+Wenn wir defekte Ware nachliefern müssen, läuft dies über unsere Filiale in Arbon.
+Wir hatten zwar ein bis zwei Paletten bei denen wir unter anderem einige Plastikdeckel aufbewahrt haben, aber es war sehr unsortiert.
+Da die Nachlieferungen auch in meinen Zuständigkeitsbereich fallen, habe ich hier intervenieren müssen und angefangen ein "Lagersystem" zu erarbeiten.
 Sofort habe ich es meinem Vorgesetzten vorgestellt und konnte es umsetzten.
 
-Gestört hat mich vor allem  die vielen Teuren Artikel die wir entsorgen mussten, nur wegen einer speziellen schraube oder ein 5er Set Plastik Boxen weil bei der Lieferung ein einziger Deckel kaputt ging.
+Gestört haben mich vor allem  die vielen teuren Artikel die wir entsorgen mussten, nur wegen einer speziellen Schraube oder ein 5er-Set Plastikboxen weil bei der Lieferung ein einziger Deckel kaputt ging.
 
-Seit diesem Tag an haben wir um die 13 Doppelrahmen Paletten die mit einem Lagerplatz beschriftet und Sortiert sind.
+Von diesem Tag an, haben wir um die 13 Doppelrahmen Paletten die mit einem Lagerplatz beschriftet und sortiert sind.
 Per Software lässt sich folgendes überprüfen:
 - Was ist alles in der Palette?
 - Ist der Artikel irgendwo hinterlegt?
@@ -40,12 +40,12 @@ Hat man den Passenden Artikel gefunden, klickt man darauf und man gelangt in ein
 - Artikelbild
 - Artikelnummer
 - Artikelname
-- Alle verfügbaren Einzelteile wo jeweils die Anzahl der verfügbaren Stückzahlen steht und einen minus/plus Knopf um das Teil ein oder auszubuchen.
+- Alle verfügbaren Einzelteile bei denen jeweils die Anzahl der verfügbaren Stückzahlen steht und einen minus/plus Knopf um das Teil ein- oder auszubuchen.
 - Lagerplatz des jeweiligen Ersatzteil.
 > [!NOTE]
 > Bild Folgt.
 
-Möchte man nun das Ersatzteil finden, nimmt man die Anzahl an benötigten Teilen aus dem System und merkt sich den Lagerplatz der Palette.
+Möchte man nun das Ersatzteil finden, nimmt man die Anzahl an benötigten Teile aus dem System und merkt sich den Lagerplatz der Palette.
 Das Palett wird runtergenommen und das Ersatzteil kann herausgenommen werden.
 
 <p float="left">
